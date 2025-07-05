@@ -12,7 +12,7 @@ This project explores classical nonlinear forecasting methods to analyze and pre
 
 ## The Dataset
 
-The data is a synthetic time series provided in a simple single-column text file as a sequence of scalar values.
+The data is a synthetic time series provided in a simple single-column text file as a sequence of scalar values. The time series consists of 5,000 consecutive observations.
 
 ## Methodology
 
