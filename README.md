@@ -32,7 +32,7 @@ The data is a synthetic time series provided in a simple single-column text file
 - The minimum embedding dimension required to unfold the attractor is 5.
 - The maximal Lyapunov exponent is positive, confirming chaotic dynamics.
 - Nonlinear prediction achieves low relative error of 2.92%.
-- Increasing the embedding dimension lowers error to 1.47%. While an embedding dimension of 5 suffices to unfold the attractor, the optimal embedding for forecasting may differ from the one needed for phase space reconstruction.
+- Increasing the embedding dimension to 6 lowers error to 1.47%. While an embedding dimension of 5 suffices to unfold the attractor, the optimal embedding for forecasting may differ from the one needed for phase space reconstruction.
 
 ## Future Work
 
