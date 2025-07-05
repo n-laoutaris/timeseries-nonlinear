@@ -2,7 +2,7 @@
 
 This project presents a compact baseline for forecasting chaotic time series using classical nonlinear techniques rooted in dynamical systems theory.
 
-![tsplot](./images/tsplot.png)
+![tsplot](./images/ts_plot.png)
 
 ## The Problem
 
